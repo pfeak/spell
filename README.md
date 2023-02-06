@@ -4,7 +4,7 @@ Go implementation based on [Spell: Streaming Parsing of System Event Logs](https
 
 `Spell` is an online real-time dynamic parsing method based on `LCS (Longest Common Subsequence)`, which is used to dynamically extract log data templates.
 
-Documents：[English]((https://github.com/pfeak/Spell/blob/master/README.md))
+Documents：[English](https://github.com/pfeak/Spell/blob/master/README.md)
 /[中文](https://github.com/pfeak/Spell/blob/master/docs/zh.md)
 
 ## Advantages and disadvantages

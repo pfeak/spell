@@ -4,7 +4,7 @@
 
 `Spell` 是一种基于 `LCS(最长公共子序列)` 的在线实时动态解析日志的方法，用以动态提取日志数据模板。
 
-文档：[English]((https://github.com/pfeak/Spell/blob/master/README.md))
+文档：[English](https://github.com/pfeak/Spell/blob/master/README.md)
 /[中文](https://github.com/pfeak/Spell/blob/master/docs/zh.md)
 
 ## 优缺点
